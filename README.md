@@ -17,11 +17,6 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 
 ### Web Developer
 [![GitHub Streak](https://streak-stats.demolab.com?user=saikilito&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
- 
-  
- #### 🏆 GitHub Trophies
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=Saikilito&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
-  -->
 
 ## Technologies:
 
@@ -78,5 +73,5 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 
 ## Contact:
 
-[![Email]([https://img.shields.io/badge/ingcapadev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010](https://img.shields.io/badge/kembert@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010))](mailto:kembert@gmail.com)
+[![Email](https://img.shields.io/badge/kembert@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:kembert@gmail.com)
 
