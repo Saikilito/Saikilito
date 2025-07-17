@@ -53,7 +53,15 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=elastcsearch" height="40" alt="elastcsearch logo"  />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="elasticsearch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  <img width="12" />  
+  <img src="https://skillicons.dev/icons?i=rxjs" height="40" alt="rxjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
@@ -66,14 +74,6 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />  
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
-  <img width="12" />  
-  <img src="https://skillicons.dev/icons?i=rxjs" height="40" alt="rxjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=md" height="40" alt="markdown logo"  />
   <img width="12" />
