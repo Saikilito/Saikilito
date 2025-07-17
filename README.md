@@ -16,11 +16,11 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 </br>
 
 ### Web Developer
-[![GitHub Streak](https://streak-stats.demolab.com?user=INGCapaDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
- <!-- <img src="https://raw.githubusercontent.com/INGCapaDev/INGCapaDev/output/snake.svg" alt="Snake animation" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=saikilito&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
+ 
   
-  #### 🏆 GitHub Trophies
-  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=INGCapaDev&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
+ #### 🏆 GitHub Trophies
+  [![Github Trophies](https://github-profile-trophy.vercel.app/?username=Saikilito&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
   -->
 
 ## Technologies:
@@ -61,8 +61,6 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
